@@ -1,4 +1,4 @@
 # sum.rb
-def sum ( a + B )
+def sum ( a + b )
 	a + b
 end
